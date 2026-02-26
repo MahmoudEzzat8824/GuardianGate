@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📚 Documentation
-    url: https://github.com/YOUR_USERNAME/GuardianGate/blob/main/README.md
+    url: https://github.com/MahmoudEzzat8824/GuardianGate/blob/main/README.md
     about: Check the documentation for setup and usage guides
   - name: 💬 Discussions
-    url: https://github.com/YOUR_USERNAME/GuardianGate/discussions
+    url: https://github.com/MahmoudEzzat8824/GuardianGate/discussions
     about: Ask questions and discuss ideas with the community
   - name: 🔒 Security Vulnerability
-    url: https://github.com/YOUR_USERNAME/GuardianGate/security/advisories/new
+    url: https://github.com/MahmoudEzzat8824/GuardianGate/security/advisories/new
     about: Report a security vulnerability (private disclosure)
